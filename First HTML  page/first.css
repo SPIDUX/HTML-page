@@ -83,3 +83,6 @@ html {
   .quote>span{font-weight: 800;
     color: rgba(206, 14, 14, 0.87);
   }
+  #others{
+    display: flex;
+  }
